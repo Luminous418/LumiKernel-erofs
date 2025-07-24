@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/mt6768/built-in.o :=   rm -f sound/soc/mediatek/mt6768/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/soc/mediatek/mt6768/built-in.o sound/soc/mediatek/mt6768/snd-soc-mt6768-afe.o sound/soc/mediatek/mt6768/mt6768-mt6358.o ; scripts/mod/modpost sound/soc/mediatek/mt6768/built-in.o

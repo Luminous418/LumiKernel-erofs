@@ -1,0 +1,1 @@
+cmd_drivers/muic/common/built-in.o :=   rm -f drivers/muic/common/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/muic/common/built-in.o drivers/muic/common/common_muic.o ; scripts/mod/modpost drivers/muic/common/built-in.o

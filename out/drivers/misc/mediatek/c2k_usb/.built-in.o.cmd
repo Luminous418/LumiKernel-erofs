@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/c2k_usb/built-in.o :=   rm -f drivers/misc/mediatek/c2k_usb/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/c2k_usb/built-in.o drivers/misc/mediatek/c2k_usb/c2k_usb.o ; scripts/mod/modpost drivers/misc/mediatek/c2k_usb/built-in.o

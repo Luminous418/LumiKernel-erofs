@@ -1,0 +1,1 @@
+cmd_kernel/cgroup/built-in.o :=   rm -f kernel/cgroup/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD kernel/cgroup/built-in.o kernel/cgroup/cgroup.o kernel/cgroup/namespace.o kernel/cgroup/cgroup-v1.o kernel/cgroup/freezer.o kernel/cgroup/cpuset.o kernel/cgroup/debug.o ; scripts/mod/modpost kernel/cgroup/built-in.o

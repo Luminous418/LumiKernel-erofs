@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.o :=   rm -f drivers/leds/trigger/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/leds/trigger/built-in.o drivers/leds/trigger/ledtrig-timer.o ; scripts/mod/modpost drivers/leds/trigger/built-in.o

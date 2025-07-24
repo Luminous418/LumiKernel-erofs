@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/built-in.o :=   rm -f drivers/usb/misc/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/misc/built-in.o drivers/usb/misc/trancevibrator.o ; scripts/mod/modpost drivers/usb/misc/built-in.o

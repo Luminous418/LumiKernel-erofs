@@ -1,0 +1,13 @@
+!<thin>
+//                                              126       `
+of_touchscreen.o/
+melfas_mip4/mip4_ts.o/
+melfas_mip4/mip4_ts_mod.o/
+melfas_mip4/mip4_ts_dev.o/
+melfas_mip4/mip4_fw_mss100.o/
+
+/0              0           0     0     644     6552      `
+/18             0           0     0     644     73160     `
+/41             0           0     0     644     38632     `
+/68             0           0     0     644     116512    `
+/95             0           0     0     644     29120     `

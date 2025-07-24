@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-sma1305.o :=  rm -f sound/soc/codecs/snd-soc-sma1305.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/soc/codecs/snd-soc-sma1305.o sound/soc/codecs/sma1305.o 

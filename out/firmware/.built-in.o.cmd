@@ -1,0 +1,1 @@
+cmd_firmware/built-in.o :=   rm -f firmware/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD firmware/built-in.o firmware/melfas/melfas_mip4_ts.fw.gen.o firmware/tsp_stm/fts5cu56a_a32.bin.gen.o firmware/tsp_stm/fts5cu56a_a22.bin.gen.o ; scripts/mod/modpost firmware/built-in.o

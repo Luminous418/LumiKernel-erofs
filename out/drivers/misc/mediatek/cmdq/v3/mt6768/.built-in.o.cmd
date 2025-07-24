@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o :=   rm -f drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o drivers/misc/mediatek/cmdq/v3/mt6768/cmdq_mdp.o ; scripts/mod/modpost drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o

@@ -1,0 +1,1 @@
+cmd_sound/soc/samsung/snd-soc-sec-audio.o :=  rm -f sound/soc/samsung/snd-soc-sec-audio.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/soc/samsung/snd-soc-sec-audio.o sound/soc/samsung/sec_audio_sysfs.o sound/soc/samsung/jack_accdet_sysfs_cb.o 

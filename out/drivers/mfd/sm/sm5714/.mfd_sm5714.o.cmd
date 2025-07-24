@@ -1,0 +1,1 @@
+cmd_drivers/mfd/sm/sm5714/mfd_sm5714.o :=  rm -f drivers/mfd/sm/sm5714/mfd_sm5714.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/mfd/sm/sm5714/mfd_sm5714.o drivers/mfd/sm/sm5714/sm5714_core.o drivers/mfd/sm/sm5714/sm5714-irq.o 

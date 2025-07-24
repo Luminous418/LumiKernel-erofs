@@ -1,0 +1,1 @@
+cmd_drivers/muic/sm/sm5714/muic_sm5714.o :=  rm -f drivers/muic/sm/sm5714/muic_sm5714.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/muic/sm/sm5714/muic_sm5714.o drivers/muic/sm/sm5714/sm5714-muic.o drivers/muic/sm/sm5714/sm5714-muic-afc.o drivers/muic/sm/sm5714/sm5714-muic-pdic.o 

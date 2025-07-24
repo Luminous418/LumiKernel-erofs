@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_conntrack_ipv4.o :=  rm -f net/ipv4/netfilter/nf_conntrack_ipv4.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD net/ipv4/netfilter/nf_conntrack_ipv4.o net/ipv4/netfilter/nf_conntrack_l3proto_ipv4.o net/ipv4/netfilter/nf_conntrack_proto_icmp.o 

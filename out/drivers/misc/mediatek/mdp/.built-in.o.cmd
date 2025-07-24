@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mdp/built-in.o :=   rm -f drivers/misc/mediatek/mdp/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/mdp/built-in.o drivers/misc/mediatek/mdp/mdp_ioctl_ex.o drivers/misc/mediatek/mdp/mdp_m4u.o ; scripts/mod/modpost drivers/misc/mediatek/mdp/built-in.o

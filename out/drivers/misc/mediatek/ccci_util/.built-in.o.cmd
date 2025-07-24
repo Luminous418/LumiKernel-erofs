@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/ccci_util/built-in.o :=   rm -f drivers/misc/mediatek/ccci_util/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/ccci_util/built-in.o drivers/misc/mediatek/ccci_util/ccci_util_lib.o drivers/misc/mediatek/ccci_util/ccci_util_dummy.o ; scripts/mod/modpost drivers/misc/mediatek/ccci_util/built-in.o

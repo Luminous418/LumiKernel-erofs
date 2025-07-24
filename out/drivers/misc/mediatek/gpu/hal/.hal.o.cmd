@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/gpu/hal/hal.o :=  rm -f drivers/misc/mediatek/gpu/hal/hal.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/gpu/hal/hal.o drivers/misc/mediatek/gpu/hal/mtk_gpu_utility.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accdet/built-in.o :=   rm -f drivers/misc/mediatek/accdet/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/accdet/built-in.o drivers/misc/mediatek/accdet/accdet_drv.o drivers/misc/mediatek/accdet/mt6358/built-in.o ; scripts/mod/modpost drivers/misc/mediatek/accdet/built-in.o

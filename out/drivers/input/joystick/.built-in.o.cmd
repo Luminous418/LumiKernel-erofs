@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/built-in.o :=   rm -f drivers/input/joystick/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/input/joystick/built-in.o drivers/input/joystick/xpad.o ; scripts/mod/modpost drivers/input/joystick/built-in.o

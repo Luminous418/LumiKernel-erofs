@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/built-in.o :=   rm -f drivers/misc/mediatek/flashlight/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/flashlight/built-in.o drivers/misc/mediatek/flashlight/flashlight.o drivers/misc/mediatek/flashlight/flashlights-sm5714.o ; scripts/mod/modpost drivers/misc/mediatek/flashlight/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/sm/sm5714/pdic_sm5714.o :=  rm -f drivers/usb/typec/sm/sm5714/pdic_sm5714.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/typec/sm/sm5714/pdic_sm5714.o drivers/usb/typec/sm/sm5714/sm5714_typec.o drivers/usb/typec/sm/sm5714/sm5714_policy.o drivers/usb/typec/sm/sm5714/sm5714_pd.o 

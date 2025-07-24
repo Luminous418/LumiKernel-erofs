@@ -1,0 +1,1 @@
+cmd_drivers/nvmem/built-in.o :=   rm -f drivers/nvmem/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/nvmem/built-in.o drivers/nvmem/nvmem_core.o ; scripts/mod/modpost drivers/nvmem/built-in.o

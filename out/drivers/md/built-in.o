@@ -1,0 +1,54 @@
+!<thin>
+//                                              368       `
+dm-uevent.o/
+dm.o/
+dm-table.o/
+dm-target.o/
+dm-linear.o/
+dm-stripe.o/
+dm-ioctl.o/
+dm-io.o/
+dm-kcopyd.o/
+dm-sysfs.o/
+dm-stats.o/
+dm-rq.o/
+dm-builtin.o/
+dm-bufio.o/
+dm-crypt.o/
+dm-default-key.o/
+dm-snap.o/
+dm-exception-store.o/
+dm-snap-transient.o/
+dm-snap-persistent.o/
+dm-verity-fec.o/
+dm-verity-avb.o/
+dm-verity-target.o/
+dm-verity-debug.o/
+alta_bigdata.o/
+dm-bow.o/
+/0              0           0     0     644     7640      `
+/13            /0           0     0     644     74664     `
+/19             0           0     0     644     43040     `
+/31             0           0     0     644     8136      `
+/44             0           0     0     644     8560      `
+/57             0           0     0     644     10144     `
+/70             0           0     0     644     40872     `
+/82             0           0     0     644     12512     `
+/91             0           0     0     644     20048     `
+/104            0           0     0     644     5112      `
+/116            0           0     0     644     25864     `
+/128            0           0     0     644     20464     `
+/137            0           0     0     644     2040      `
+/151            0           0     0     644     62640     `
+/163            0           0     0     644     56008     `
+/175            0           0     0     644     11424     `
+/193            0           0     0     644     50192     `
+/204            0           0     0     644     12216     `
+/226            0           0     0     644     4312      `
+/247            0           0     0     644     14320     `
+/269            0           0     0     644     18104     `
+/286            0           0     0     644     9248      `
+/303            0           0     0     644     29608     `
+/323            0           0     0     644     12952     `
+/342            0           0     0     644     10752     `
+/358            0           0     0     644     26640     `

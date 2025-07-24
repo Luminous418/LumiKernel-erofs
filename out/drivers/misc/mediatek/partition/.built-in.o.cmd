@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/partition/built-in.o :=   rm -f drivers/misc/mediatek/partition/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/partition/built-in.o drivers/misc/mediatek/partition/mtk_partition.o ; scripts/mod/modpost drivers/misc/mediatek/partition/built-in.o

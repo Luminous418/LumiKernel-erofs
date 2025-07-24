@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-freecom.o :=  rm -f drivers/usb/storage/ums-freecom.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/storage/ums-freecom.o drivers/usb/storage/freecom.o 

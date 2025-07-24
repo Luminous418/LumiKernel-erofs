@@ -1,0 +1,1 @@
+cmd_drivers/input/sec_input/stm/built-in.o :=   rm -f drivers/input/sec_input/stm/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/input/sec_input/stm/built-in.o drivers/input/sec_input/stm/stm_ts.o ; scripts/mod/modpost drivers/input/sec_input/stm/built-in.o

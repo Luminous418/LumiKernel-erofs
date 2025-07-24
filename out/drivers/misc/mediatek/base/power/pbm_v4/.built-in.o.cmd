@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/pbm_v4/built-in.o :=   rm -f drivers/misc/mediatek/base/power/pbm_v4/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/base/power/pbm_v4/built-in.o drivers/misc/mediatek/base/power/pbm_v4/mtk_pbm.o ; scripts/mod/modpost drivers/misc/mediatek/base/power/pbm_v4/built-in.o

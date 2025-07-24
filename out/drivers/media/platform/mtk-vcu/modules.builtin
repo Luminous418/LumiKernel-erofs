@@ -1,0 +1,2 @@
+kernel/drivers/media/platform/mtk-vcu/mtk_vcu.ko
+kernel/drivers/media/platform/mtk-vcu/mtk_vcodec_mem.ko

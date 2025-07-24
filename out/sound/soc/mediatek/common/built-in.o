@@ -1,0 +1,20 @@
+!<thin>
+//                                              160       `
+mtk-mmap-ion.o/
+mtk-afe-platform-driver.o/
+mtk-afe-fe-dai.o/
+mtk-sram-manager.o/
+mtk-sp-pcm-ops.o/
+mtk-afe-debug.o/
+mtk-sp-spk-amp.o/
+mtk-usip.o/
+mtk-btcvsd.o/
+/0              0           0     0     644     18072     `
+/16             0           0     0     644     7072      `
+/43             0           0     0     644     35784     `
+/61             0           0     0     644     7312      `
+/81             0           0     0     644     1664      `
+/99             0           0     0     644     4672      `
+/116            0           0     0     644     22344     `
+/134            0           0     0     644     10328     `
+/146            0           0     0     644     38704     `

@@ -1,0 +1,1 @@
+cmd_net/ipv4/tcp_htcp.ko := /home/luminous418/zyc-clang/bin/ld.lld -EL -r -maarch64elf -O2 -z noexecstack -T ../scripts/module-common.lds -T ../arch/arm64/kernel/module.lds --build-id  -o net/ipv4/tcp_htcp.ko net/ipv4/tcp_htcp.o net/ipv4/tcp_htcp.mod.o ;  true

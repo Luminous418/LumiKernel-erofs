@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/video/common/color20/built-in.o :=   rm -f drivers/misc/mediatek/video/common/color20/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/video/common/color20/built-in.o drivers/misc/mediatek/video/common/color20/ddp_color.o ; scripts/mod/modpost drivers/misc/mediatek/video/common/color20/built-in.o

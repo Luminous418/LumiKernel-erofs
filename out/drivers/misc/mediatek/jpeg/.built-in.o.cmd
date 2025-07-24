@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/jpeg/built-in.o :=   rm -f drivers/misc/mediatek/jpeg/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/jpeg/built-in.o drivers/misc/mediatek/jpeg/v2/built-in.o ; scripts/mod/modpost drivers/misc/mediatek/jpeg/built-in.o

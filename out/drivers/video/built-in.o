@@ -1,0 +1,36 @@
+!<thin>
+//                                              378       `
+logo/logo.o/
+logo/logo_linux_mono.o/
+logo/logo_linux_vga16.o/
+logo/logo_linux_clut224.o/
+backlight/lcd.o/
+backlight/backlight.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+/0              0           0     0     644     3744      `
+/13             0           0     0     644     2272      `
+/37             0           0     0     644     4672      `
+/62             0           0     0     644     8496      `
+/89             0           0     0     644     14216     `
+/106            0           0     0     644     25664     `
+/129            0           0     0     644     7160      `
+/154            0           0     0     644     4296      `
+/178            0           0     0     644     68048     `
+/198            0           0     0     644     23352     `
+/218            0           0     0     644     14016     `
+/239            0           0     0     644     13944     `
+/261            0           0     0     644     27992     `
+/282            0           0     0     644     4656      `
+/302            0           0     0     644     7544      `
+/328            0           0     0     644     4448      `
+/354            0           0     0     644     5632      `

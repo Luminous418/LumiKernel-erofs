@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/performance/perf_ioctl/built-in.o :=   rm -f drivers/misc/mediatek/performance/perf_ioctl/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/performance/perf_ioctl/built-in.o drivers/misc/mediatek/performance/perf_ioctl/perf_ioctl.o ; scripts/mod/modpost drivers/misc/mediatek/performance/perf_ioctl/built-in.o

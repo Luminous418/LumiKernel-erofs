@@ -1,0 +1,57 @@
+!<thin>
+//                                              482       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+clk-xgene.o/
+mediatek/clk-fixup-div.o/
+mediatek/clk-mtk.o/
+mediatek/clk-pll.o/
+mediatek/clk-gate.o/
+mediatek/clk-apmixed.o/
+mediatek/clk-cpumux.o/
+mediatek/clk-mux.o/
+mediatek/clkchk.o/
+mediatek/clk-mt6768.o/
+mediatek/clk-mtk-v1.o/
+mediatek/clk-mt6768-pg.o/
+mediatek/clkdbg.o/
+
+/0              0           0     0     644     6360      `
+/14             0           0     0     644     7480      `
+/26             0           0     0     644     20528     `
+/36             0           0     0     644     155144    `
+/43             0           0     0     644     16944     `
+/58             0           0     0     644     13168     `
+/78             0           0     0     644     14544     `
+/96             0           0     0     644     9616      `
+/108            0           0     0     644     3912      `
+/126            0           0     0     644     11320     `
+/137            0           0     0     644     6072      `
+/154            0           0     0     644     7768      `
+/180            0           0     0     644     14648     `
+/192            0           0     0     644     5936      `
+/204            0           0     0     644     22480     `
+/217            0           0     0     644     5896      `
+/243            0           0     0     644     6864      `
+/263            0           0     0     644     8712      `
+/283            0           0     0     644     6280      `
+/304            0           0     0     644     3616      `
+/328            0           0     0     644     3648      `
+/351            0           0     0     644     7144      `
+/371            0           0     0     644     10752     `
+/390            0           0     0     644     107480    `
+/413            0           0     0     644     1416      `
+/436            0           0     0     644     121624    `
+/462            0           0     0     644     39176     `

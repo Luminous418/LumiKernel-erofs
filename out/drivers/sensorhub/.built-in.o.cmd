@@ -1,0 +1,1 @@
+cmd_drivers/sensorhub/built-in.o :=   rm -f drivers/sensorhub/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/sensorhub/built-in.o drivers/sensorhub/shub.o drivers/sensorhub/utility/sensor_core.o ; scripts/mod/modpost drivers/sensorhub/built-in.o

@@ -1,0 +1,31 @@
+!<thin>
+//                                              322       `
+mt65xx_lcm_list.o/
+lcm_common.o/
+lcm_gpio.o/
+lcm_i2c.o/
+lcm_pmic.o/
+lcm_util.o/
+smcdsd_panel/smcdsd_panel_init.o/
+smcdsd_panel/smcdsd_panel.o/
+smcdsd_panel/smcdsd_board.o/
+smcdsd_panel/smcdsd_notify.o/
+smcdsd_panel/smcdsd_abd.o/
+smcdsd_panel/panels/dpui.o/
+smcdsd_panel/panels/mdnie.o/
+smcdsd_panel/panels/s6e3fc3_a32.o/
+
+/0              0           0     0     644     1416      `
+/19             0           0     0     644     1008      `
+/33             0           0     0     644     1008      `
+/45             0           0     0     644     1072      `
+/56             0           0     0     644     4384      `
+/68             0           0     0     644     1008      `
+/80             0           0     0     644     21640     `
+/114            0           0     0     644     16880     `
+/143            0           0     0     644     62768     `
+/172            0           0     0     644     12576     `
+/202            0           0     0     644     51128     `
+/229            0           0     0     644     22536     `
+/257            0           0     0     644     32248     `
+/286            0           0     0     644     249168    `

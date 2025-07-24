@@ -1,0 +1,1 @@
+cmd_drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.o :=   rm -f drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.o drivers/battery/fuelgauge/sm5714_fuelgauge/sm5714_fuelgauge.o ; scripts/mod/modpost drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.o

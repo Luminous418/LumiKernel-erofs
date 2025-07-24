@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-onetouch.o :=  rm -f drivers/usb/storage/ums-onetouch.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/storage/ums-onetouch.o drivers/usb/storage/onetouch.o 

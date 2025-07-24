@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/boot_reason/BOOT_REASON.o :=  rm -f drivers/misc/mediatek/boot_reason/BOOT_REASON.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/boot_reason/BOOT_REASON.o drivers/misc/mediatek/boot_reason/mtk_boot_reason.o 

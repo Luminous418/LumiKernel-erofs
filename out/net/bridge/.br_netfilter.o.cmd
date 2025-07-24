@@ -1,0 +1,1 @@
+cmd_net/bridge/br_netfilter.o := /home/luminous418/zyc-clang/bin/ld.lld -EL -maarch64elf -O2 -z noexecstack  -r -o net/bridge/br_netfilter.o net/bridge/br_netfilter_hooks.o net/bridge/br_netfilter_ipv6.o ; scripts/mod/modpost net/bridge/br_netfilter.o

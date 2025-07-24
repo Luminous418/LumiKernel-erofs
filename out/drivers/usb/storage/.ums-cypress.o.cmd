@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-cypress.o :=  rm -f drivers/usb/storage/ums-cypress.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/storage/ums-cypress.o drivers/usb/storage/cypress_atacb.o 

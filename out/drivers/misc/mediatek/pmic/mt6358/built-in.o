@@ -1,0 +1,26 @@
+!<thin>
+//                                              224       `
+v1/pmic_ipi.o/
+v1/pmic.o/
+v1/pmic_common.o/
+v1/pmic_debugfs.o/
+v1/pmic_irq.o/
+v1/pmic_initial_setting.o/
+v1/pmic_api.o/
+v1/pmic_auxadc.o/
+v1/regulator_codegen.o/
+v1/pmic_lp_api.o/
+v1/pmic_efuse.o/
+v1/pmic_throttling_dlpt.o/
+/0              0           0     0     644     4808      `
+/15             0           0     0     644     7368      `
+/26             0           0     0     644     66576     `
+/44             0           0     0     644     10184     `
+/63             0           0     0     644     7216      `
+/78             0           0     0     644     12112     `
+/105            0           0     0     644     1039040   `
+/120            0           0     0     644     30448     `
+/138            0           0     0     644     195200    `
+/162            0           0     0     644     7072      `
+/180            0           0     0     644     2304      `
+/197            0           0     0     644     8648      `

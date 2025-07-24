@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-sddr55.o :=  rm -f drivers/usb/storage/ums-sddr55.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/storage/ums-sddr55.o drivers/usb/storage/sddr55.o 

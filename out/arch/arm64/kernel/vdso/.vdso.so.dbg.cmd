@@ -1,0 +1,1 @@
+cmd_arch/arm64/kernel/vdso/vdso.so.dbg := /home/luminous418/zyc-clang/bin/ld.lld -EL -maarch64elf -O2 -z noexecstack -shared -nostdlib -soname=linux-vdso.so.1  --hash-style=sysv --build-id -n -T  arch/arm64/kernel/vdso/vdso.lds arch/arm64/kernel/vdso/gettimeofday.o arch/arm64/kernel/vdso/note.o arch/arm64/kernel/vdso/sigreturn.o -o arch/arm64/kernel/vdso/vdso.so.dbg

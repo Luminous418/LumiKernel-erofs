@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=   rm -f drivers/input/keyboard/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/input/keyboard/built-in.o drivers/input/keyboard/mediatek/built-in.o ; scripts/mod/modpost drivers/input/keyboard/built-in.o

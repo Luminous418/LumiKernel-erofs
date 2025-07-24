@@ -1,0 +1,60 @@
+!<thin>
+//                                              1320      `
+../common/v1/imgsensor.o/
+../common/v1/imgsensor_hw.o/
+../common/v1/imgsensor_i2c.o/
+../common/v1/imgsensor_legacy.o/
+../common/v1/imgsensor_proc.o/
+../common/v1/imgsensor_sensor_list.o/
+../common/sysfs/imgsensor_sysfs.o/
+../common/sysfs/imgsensor_vendor.o/
+../common/sysfs/crc32.o/
+../common/sysfs/imgsensor_vendor_rom_config.o/
+../common/sysfs/aau_v32/imgsensor_eeprom_front_hi2021q.o/
+../common/sysfs/aau_v32/imgsensor_eeprom_rear_gw3.o/
+../common/sysfs/aau_v32/imgsensor_otp_rear2_sr846d.o/
+../common/sysfs/aau_v32/imgsensor_otp_rear3_gc5035b.o/
+../common/sysfs/aau_v32/imgsensor_otp_rear4_gc5035.o/
+../common/sysfs/aau_v32/imgsensor_vendor_rom_config_aau_v32.o/
+../common/v1/hi2021q_mipi_raw/hi2021qmipiraw_Sensor.o/
+../common/v1/sr846d_mipi_raw/sr846dmipiraw_Sensor.o/
+../common/v1/gc5035_mipi_raw/gc5035mipiraw_Sensor.o/
+../common/v1/gc5035b_mipi_raw/gc5035bmipiraw_Sensor.o/
+../common/v1/imx355_mipi_raw/imx355mipiraw_Sensor.o/
+../common/v1/gc02m1b_mipi_raw/gc02m1b_dummy.o/
+../common/v1/gc02m1_mipi_raw/gc02m1mipiraw_Sensor.o/
+imgsensor_clk.o/
+camera_project/aau_v32/camera_hw/regulator/regulator.o/
+camera_project/aau_v32/camera_hw/gpio/gpio.o/
+camera_project/aau_v32/camera_hw/mclk/mclk.o/
+camera_project/aau_v32/camera_hw/imgsensor_cfg_table.o/
+camera_project/aau_v32/s5kgw3_mipi_raw/s5kgw3mipiraw_Sensor.o/
+/0              0           0     0     644     118944    `
+/26             0           0     0     644     11200     `
+/55             0           0     0     644     8784      `
+/85             0           0     0     644     2288      `
+/118            0           0     0     644     18624     `
+/149            0           0     0     644     5040      `
+/187            0           0     0     644     161624    `
+/222            0           0     0     644     9288      `
+/258            0           0     0     644     2032      `
+/283            0           0     0     644     1088      `
+/330            0           0     0     644     1976      `
+/388            0           0     0     644     2048      `
+/441            0           0     0     644     2064      `
+/495            0           0     0     644     1976      `
+/550            0           0     0     644     2064      `
+/604            0           0     0     644     1776      `
+/667            0           0     0     644     73928     `
+/722            0           0     0     644     39936     `
+/775            0           0     0     644     61840     `
+/828            0           0     0     644     92864     `
+/883            0           0     0     644     50520     `
+/936            0           0     0     644     1088      `
+/983            0           0     0     644     59856     `
+/1036           0           0     0     644     14576     `
+/1053           0           0     0     644     6776      `
+/1109           0           0     0     644     8912      `
+/1155           0           0     0     644     10552     `
+/1201           0           0     0     644     4832      `
+/1257           0           0     0     644     93448     `

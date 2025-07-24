@@ -1,0 +1,1 @@
+cmd_arch/arm64/net/built-in.o :=   rm -f arch/arm64/net/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD arch/arm64/net/built-in.o arch/arm64/net/bpf_jit_comp.o ; scripts/mod/modpost arch/arm64/net/built-in.o

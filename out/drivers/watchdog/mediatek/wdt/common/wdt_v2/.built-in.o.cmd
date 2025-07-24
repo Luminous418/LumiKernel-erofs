@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/mediatek/wdt/common/wdt_v2/built-in.o :=   rm -f drivers/watchdog/mediatek/wdt/common/wdt_v2/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/watchdog/mediatek/wdt/common/wdt_v2/built-in.o drivers/watchdog/mediatek/wdt/common/wdt_v2/mtk_wdt_v2.o ; scripts/mod/modpost drivers/watchdog/mediatek/wdt/common/wdt_v2/built-in.o

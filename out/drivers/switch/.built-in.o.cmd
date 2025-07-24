@@ -1,0 +1,1 @@
+cmd_drivers/switch/built-in.o :=   rm -f drivers/switch/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/switch/built-in.o drivers/switch/switch_class.o ; scripts/mod/modpost drivers/switch/built-in.o

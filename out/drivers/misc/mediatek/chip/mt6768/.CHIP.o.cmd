@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/chip/mt6768/CHIP.o :=  rm -f drivers/misc/mediatek/chip/mt6768/CHIP.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/chip/mt6768/CHIP.o drivers/misc/mediatek/chip/mt6768/mtk_chip.o 

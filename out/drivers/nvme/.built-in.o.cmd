@@ -1,0 +1,1 @@
+cmd_drivers/nvme/built-in.o :=   rm -f drivers/nvme/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/nvme/built-in.o drivers/nvme/host/built-in.o drivers/nvme/target/built-in.o ; scripts/mod/modpost drivers/nvme/built-in.o

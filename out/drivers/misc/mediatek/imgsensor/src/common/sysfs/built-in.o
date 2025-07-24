@@ -1,0 +1,22 @@
+!<thin>
+//                                              320       `
+imgsensor_sysfs.o/
+imgsensor_vendor.o/
+crc32.o/
+imgsensor_vendor_rom_config.o/
+aau_v32/imgsensor_eeprom_front_hi2021q.o/
+aau_v32/imgsensor_eeprom_rear_gw3.o/
+aau_v32/imgsensor_otp_rear2_sr846d.o/
+aau_v32/imgsensor_otp_rear3_gc5035b.o/
+aau_v32/imgsensor_otp_rear4_gc5035.o/
+aau_v32/imgsensor_vendor_rom_config_aau_v32.o/
+/0              0           0     0     644     161624    `
+/19             0           0     0     644     9288      `
+/39             0           0     0     644     2032      `
+/48             0           0     0     644     1088      `
+/79             0           0     0     644     1976      `
+/121            0           0     0     644     2048      `
+/158            0           0     0     644     2064      `
+/196            0           0     0     644     1976      `
+/235            0           0     0     644     2064      `
+/273            0           0     0     644     1776      `

@@ -1,0 +1,1 @@
+cmd_sound/core/seq/snd-seq-midi-event.o :=  rm -f sound/core/seq/snd-seq-midi-event.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/core/seq/snd-seq-midi-event.o sound/core/seq/seq_midi_event.o 

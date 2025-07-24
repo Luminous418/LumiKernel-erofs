@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/common/aee.o :=  rm -f drivers/misc/mediatek/aee/common/aee.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/aee/common/aee.o drivers/misc/mediatek/aee/common/dummy.o 

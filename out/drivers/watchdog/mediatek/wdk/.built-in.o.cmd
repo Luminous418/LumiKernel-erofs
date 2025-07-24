@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/mediatek/wdk/built-in.o :=   rm -f drivers/watchdog/mediatek/wdk/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/watchdog/mediatek/wdk/built-in.o drivers/watchdog/mediatek/wdk/wd_common_drv.o drivers/watchdog/mediatek/wdk/wd_api.o ; scripts/mod/modpost drivers/watchdog/mediatek/wdk/built-in.o

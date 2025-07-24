@@ -1,0 +1,1 @@
+cmd_fs/configfs/built-in.o :=   rm -f fs/configfs/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD fs/configfs/built-in.o fs/configfs/configfs.o ; scripts/mod/modpost fs/configfs/built-in.o

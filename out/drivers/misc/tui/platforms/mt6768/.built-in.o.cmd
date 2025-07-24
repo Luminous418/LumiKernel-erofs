@@ -1,0 +1,1 @@
+cmd_drivers/misc/tui/platforms/mt6768/built-in.o :=   rm -f drivers/misc/tui/platforms/mt6768/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/tui/platforms/mt6768/built-in.o drivers/misc/tui/platforms/mt6768/stui_hal_display.o drivers/misc/tui/platforms/mt6768/stui_hal_touch.o ; scripts/mod/modpost drivers/misc/tui/platforms/mt6768/built-in.o

@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.o :=   rm -f lib/lz4/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD lib/lz4/built-in.o lib/lz4/lz4_compress.o lib/lz4/lz4_decompress.o ; scripts/mod/modpost lib/lz4/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/muic/sm/sm5714/built-in.o :=   rm -f drivers/muic/sm/sm5714/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/muic/sm/sm5714/built-in.o drivers/muic/sm/sm5714/muic_sm5714.o ; scripts/mod/modpost drivers/muic/sm/sm5714/built-in.o

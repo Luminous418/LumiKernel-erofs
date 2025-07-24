@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/mediatek/built-in.o :=   rm -f drivers/mmc/host/mediatek/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/mediatek/ComboA/built-in.o ; scripts/mod/modpost drivers/mmc/host/mediatek/built-in.o

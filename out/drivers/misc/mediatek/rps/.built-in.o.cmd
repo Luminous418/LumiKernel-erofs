@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/rps/built-in.o :=   rm -f drivers/misc/mediatek/rps/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/rps/built-in.o drivers/misc/mediatek/rps/rps_perf.o ; scripts/mod/modpost drivers/misc/mediatek/rps/built-in.o

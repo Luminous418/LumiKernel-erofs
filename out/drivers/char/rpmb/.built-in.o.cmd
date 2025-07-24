@@ -1,0 +1,1 @@
+cmd_drivers/char/rpmb/built-in.o :=   rm -f drivers/char/rpmb/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/char/rpmb/built-in.o drivers/char/rpmb/rpmb-mtk.o drivers/char/rpmb/rpmb.o ; scripts/mod/modpost drivers/char/rpmb/built-in.o

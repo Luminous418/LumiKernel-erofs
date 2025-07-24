@@ -1,0 +1,1 @@
+cmd_drivers/misc/tui/built-in.o :=   rm -f drivers/misc/tui/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/tui/built-in.o drivers/misc/tui/main.o drivers/misc/tui/stui_core.o drivers/misc/tui/stui_inf.o drivers/misc/tui/platforms/"mt6768"/built-in.o ; scripts/mod/modpost drivers/misc/tui/built-in.o

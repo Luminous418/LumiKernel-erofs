@@ -1,0 +1,1 @@
+cmd_lib/zstd/built-in.o :=   rm -f lib/zstd/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD lib/zstd/built-in.o lib/zstd/zstd_compress.o lib/zstd/zstd_decompress.o ; scripts/mod/modpost lib/zstd/built-in.o

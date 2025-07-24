@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/blocktag/built-in.o :=   rm -f drivers/misc/mediatek/blocktag/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/blocktag/built-in.o drivers/misc/mediatek/blocktag/blocktag.o ; scripts/mod/modpost drivers/misc/mediatek/blocktag/built-in.o

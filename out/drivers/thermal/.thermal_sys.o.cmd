@@ -1,0 +1,1 @@
+cmd_drivers/thermal/thermal_sys.o :=  rm -f drivers/thermal/thermal_sys.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/thermal/thermal_sys.o drivers/thermal/thermal_core.o drivers/thermal/thermal_sysfs.o drivers/thermal/thermal_helpers.o drivers/thermal/thermal_hwmon.o drivers/thermal/of-thermal.o drivers/thermal/backward_compatible.o 

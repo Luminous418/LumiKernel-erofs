@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.o :=   rm -f drivers/i2c/busses/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/i2c/busses/built-in.o drivers/i2c/busses/i2c-gpio.o drivers/i2c/busses/i2c-mtk.o drivers/i2c/busses/i2c-mtk_debug.o ; scripts/mod/modpost drivers/i2c/busses/built-in.o

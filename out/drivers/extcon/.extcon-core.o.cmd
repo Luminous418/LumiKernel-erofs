@@ -1,0 +1,1 @@
+cmd_drivers/extcon/extcon-core.o :=  rm -f drivers/extcon/extcon-core.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/extcon/extcon-core.o drivers/extcon/extcon.o drivers/extcon/devres.o 

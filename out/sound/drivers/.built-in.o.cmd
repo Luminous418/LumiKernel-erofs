@@ -1,0 +1,1 @@
+cmd_sound/drivers/built-in.o :=   rm -f sound/drivers/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/drivers/built-in.o sound/drivers/opl3/built-in.o sound/drivers/opl4/built-in.o sound/drivers/mpu401/built-in.o sound/drivers/vx/built-in.o sound/drivers/pcsp/built-in.o ; scripts/mod/modpost sound/drivers/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/security/samsung/five_tee_driver/built-in.o :=  rm -f drivers/security/samsung/five_tee_driver/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/security/samsung/five_tee_driver/built-in.o

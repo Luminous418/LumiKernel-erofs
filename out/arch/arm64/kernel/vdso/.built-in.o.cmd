@@ -1,0 +1,1 @@
+cmd_arch/arm64/kernel/vdso/built-in.o :=   rm -f arch/arm64/kernel/vdso/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD arch/arm64/kernel/vdso/built-in.o arch/arm64/kernel/vdso/vdso.o ; scripts/mod/modpost arch/arm64/kernel/vdso/built-in.o

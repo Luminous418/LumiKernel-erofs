@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_accessory.o :=  rm -f drivers/usb/gadget/function/usb_f_accessory.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/gadget/function/usb_f_accessory.o drivers/usb/gadget/function/f_accessory.o 

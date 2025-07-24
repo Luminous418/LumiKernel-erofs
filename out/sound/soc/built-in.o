@@ -1,0 +1,69 @@
+!<thin>
+//                                              900       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-cache.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+codecs/mt6358.o/
+codecs/sma1305.o/
+mediatek/common/mtk-mmap-ion.o/
+mediatek/common/mtk-afe-platform-driver.o/
+mediatek/common/mtk-afe-fe-dai.o/
+mediatek/common/mtk-sram-manager.o/
+mediatek/common/mtk-sp-pcm-ops.o/
+mediatek/common/mtk-afe-debug.o/
+mediatek/common/mtk-sp-spk-amp.o/
+mediatek/common/mtk-usip.o/
+mediatek/common/mtk-btcvsd.o/
+mediatek/mt6768/mt6768-afe-pcm.o/
+mediatek/mt6768/mt6768-afe-clk.o/
+mediatek/mt6768/mt6768-afe-gpio.o/
+mediatek/mt6768/mt6768-dai-adda.o/
+mediatek/mt6768/mt6768-afe-control.o/
+mediatek/mt6768/mt6768-dai-i2s.o/
+mediatek/mt6768/mt6768-dai-hw-gain.o/
+mediatek/mt6768/mt6768-dai-pcm.o/
+mediatek/mt6768/mt6768-dai-hostless.o/
+mediatek/mt6768/mt6768-misc-control.o/
+mediatek/mt6768/mt6768-mt6358.o/
+samsung/sec_audio_sysfs.o/
+samsung/jack_accdet_sysfs_cb.o/
+
+/0              0           0     0     644     161384    `
+/12             0           0     0     644     92352     `
+/24             0           0     0     644     20240     `
+/36             0           0     0     644     2848      `
+/49             0           0     0     644     20752     `
+/62             0           0     0     644     72304     `
+/73             0           0     0     644     14296     `
+/83             0           0     0     644     5544      `
+/97             0           0     0     644     27360     `
+/108            0           0     0     644     204040    `
+/125            0           0     0     644     131672    `
+/143            0           0     0     644     18072     `
+/175            0           0     0     644     7072      `
+/218            0           0     0     644     35784     `
+/252            0           0     0     644     7312      `
+/288            0           0     0     644     1664      `
+/322            0           0     0     644     4672      `
+/355            0           0     0     644     22344     `
+/389            0           0     0     644     10328     `
+/417            0           0     0     644     38704     `
+/447            0           0     0     644     72504     `
+/481            0           0     0     644     22248     `
+/515            0           0     0     644     15256     `
+/550            0           0     0     644     26000     `
+/585            0           0     0     644     12184     `
+/623            0           0     0     644     54080     `
+/657            0           0     0     644     13880     `
+/695            0           0     0     644     10712     `
+/729            0           0     0     644     12736     `
+/768            0           0     0     644     70608     `
+/807            0           0     0     644     27944     `
+/840            0           0     0     644     56048     `
+/867            0           0     0     644     3752      `

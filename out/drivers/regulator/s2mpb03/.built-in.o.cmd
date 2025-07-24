@@ -1,0 +1,1 @@
+cmd_drivers/regulator/s2mpb03/built-in.o :=   rm -f drivers/regulator/s2mpb03/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/regulator/s2mpb03/built-in.o drivers/regulator/s2mpb03/s2mpb03.o ; scripts/mod/modpost drivers/regulator/s2mpb03/built-in.o

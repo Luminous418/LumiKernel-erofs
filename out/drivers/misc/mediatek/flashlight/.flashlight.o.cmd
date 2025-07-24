@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/flashlight.o :=  rm -f drivers/misc/mediatek/flashlight/flashlight.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/flashlight/flashlight.o drivers/misc/mediatek/flashlight/flashlight-core.o drivers/misc/mediatek/flashlight/flashlight-device.o 

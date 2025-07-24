@@ -1,0 +1,1 @@
+cmd_drivers/fingerprint/fingerprint.o :=  rm -f drivers/fingerprint/fingerprint.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/fingerprint/fingerprint.o drivers/fingerprint/fingerprint_common.o drivers/fingerprint/fingerprint_common_mtk.o drivers/fingerprint/et7xx-spi.o drivers/fingerprint/et7xx-spi_data_transfer.o 

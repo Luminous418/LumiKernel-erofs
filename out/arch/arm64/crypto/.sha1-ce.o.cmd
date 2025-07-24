@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/sha1-ce.o :=  rm -f arch/arm64/crypto/sha1-ce.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD arch/arm64/crypto/sha1-ce.o arch/arm64/crypto/sha1-ce-glue.o arch/arm64/crypto/sha1-ce-core.o 

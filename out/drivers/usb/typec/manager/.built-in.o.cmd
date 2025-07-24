@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/manager/built-in.o :=   rm -f drivers/usb/typec/manager/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/typec/manager/built-in.o drivers/usb/typec/manager/usb_typec_manager.o drivers/usb/typec/manager/if_cb_manager.o ; scripts/mod/modpost drivers/usb/typec/manager/built-in.o

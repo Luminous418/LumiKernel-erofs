@@ -1,0 +1,28 @@
+!<thin>
+//                                              188       `
+xfrm_policy.o/
+xfrm_state.o/
+xfrm_hash.o/
+xfrm_input.o/
+xfrm_output.o/
+xfrm_sysctl.o/
+xfrm_replay.o/
+xfrm_device.o/
+xfrm_proc.o/
+xfrm_algo.o/
+xfrm_user.o/
+xfrm_ipcomp.o/
+xfrm_interface.o/
+/0              0           0     0     644     81368     `
+/15             0           0     0     644     86392     `
+/29             0           0     0     644     1568      `
+/42             0           0     0     644     23320     `
+/56             0           0     0     644     9704      `
+/71             0           0     0     644     2824      `
+/86             0           0     0     644     10240     `
+/101            0           0     0     644     1904      `
+/116            0           0     0     644     8016      `
+/129            0           0     0     644     29816     `
+/142            0           0     0     644     49304     `
+/155            0           0     0     644     13432     `
+/170            0           0     0     644     21344     `

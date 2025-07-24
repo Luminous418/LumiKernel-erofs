@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/built-in.o :=   rm -f drivers/block/zram/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/block/zram/built-in.o drivers/block/zram/zram.o ; scripts/mod/modpost drivers/block/zram/built-in.o

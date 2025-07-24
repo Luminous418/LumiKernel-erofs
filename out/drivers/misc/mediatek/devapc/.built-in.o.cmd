@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/devapc/built-in.o :=   rm -f drivers/misc/mediatek/devapc/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/devapc/built-in.o drivers/misc/mediatek/devapc/devapc-mtk-common.o drivers/misc/mediatek/devapc/devapc-mt6768.o ; scripts/mod/modpost drivers/misc/mediatek/devapc/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/sensors/built-in.o :=   rm -f drivers/sensors/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/sensors/built-in.o drivers/sensors/isg5320a.o drivers/sensors/isg5320a_sub.o ; scripts/mod/modpost drivers/sensors/built-in.o

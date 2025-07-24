@@ -1,0 +1,1 @@
+cmd_drivers/misc/drb/built-in.o :=   rm -f drivers/misc/drb/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/drb/built-in.o drivers/misc/drb/dev_ril_bridge.o ; scripts/mod/modpost drivers/misc/drb/built-in.o

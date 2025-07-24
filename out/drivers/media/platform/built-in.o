@@ -1,0 +1,45 @@
+!<thin>
+//                                              644       `
+mtk-vcu/mtk_vcu.o/
+mtk-vcu/mtk_vcodec_mem.o/
+mtk-vcodec/mtk_vcodec_dec_drv.o/
+mtk-vcodec/vdec_drv_if.o/
+mtk-vcodec/mtk_vcodec_dec.o/
+mtk-vcodec/mt6768/mtk_vcodec_dec_pm.o/
+mtk-vcodec/vdec/vdec_common_if.o/
+mtk-vcodec/vdec/vdec_log_if.o/
+mtk-vcodec/vdec_vcu_if.o/
+mtk-vcodec/mtk_vcodec_enc.o/
+mtk-vcodec/mtk_vcodec_enc_drv.o/
+mtk-vcodec/mt6768/mtk_vcodec_enc_pm.o/
+mtk-vcodec/venc_drv_if.o/
+mtk-vcodec/venc/venc_common_if.o/
+mtk-vcodec/venc/venc_log_if.o/
+mtk-vcodec/venc_vcu_if.o/
+mtk-vcodec/mt6768/mtk_vcodec_intr.o/
+mtk-vcodec/mtk_vcodec_util.o/
+mtk-vcodec/mt6768/vcodec_dvfs.o/
+mtk-vcodec/mt6768/vcodec_bw.o/
+mtk-videobuf/mtk-dma-contig.o/
+
+/0              0           0     0     644     112072    `
+/19             0           0     0     644     16480     `
+/45             0           0     0     644     22864     `
+/78             0           0     0     644     8512      `
+/104            0           0     0     644     87432     `
+/133            0           0     0     644     16528     `
+/172            0           0     0     644     16176     `
+/206            0           0     0     644     2608      `
+/237            0           0     0     644     24952     `
+/263            0           0     0     644     96056     `
+/292            0           0     0     644     21952     `
+/325            0           0     0     644     11992     `
+/364            0           0     0     644     9816      `
+/390            0           0     0     644     14000     `
+/424            0           0     0     644     2624      `
+/455            0           0     0     644     16872     `
+/481            0           0     0     644     13752     `
+/518            0           0     0     644     26088     `
+/548            0           0     0     644     7240      `
+/581            0           0     0     644     1800      `
+/612            0           0     0     644     11200     `

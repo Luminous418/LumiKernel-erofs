@@ -1,0 +1,3 @@
+arch/arm64/boot/dts/mediatek/mt6768.dtb: Warning (reg_format): "reg" property in /i2c7@11004000/speaker_amp@34 has invalid length (4 bytes) (#address-cells == 2, #size-cells == 1)
+arch/arm64/boot/dts/mediatek/mt6768.dtb: Warning (avoid_default_addr_size): Relying on default #address-cells value for /i2c7@11004000/speaker_amp@34
+arch/arm64/boot/dts/mediatek/mt6768.dtb: Warning (avoid_default_addr_size): Relying on default #size-cells value for /i2c7@11004000/speaker_amp@34

@@ -1,0 +1,1 @@
+cmd_sound/soc/samsung/built-in.o :=   rm -f sound/soc/samsung/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/soc/samsung/built-in.o sound/soc/samsung/snd-soc-sec-audio.o ; scripts/mod/modpost sound/soc/samsung/built-in.o

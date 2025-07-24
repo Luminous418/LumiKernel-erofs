@@ -1,0 +1,1 @@
+cmd_lib/crypto/built-in.o :=   rm -f lib/crypto/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD lib/crypto/built-in.o lib/crypto/libblake2s.o ; scripts/mod/modpost lib/crypto/built-in.o

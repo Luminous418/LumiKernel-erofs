@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/mediatek/mt6768/built-in.o :=   rm -f drivers/input/keyboard/mediatek/mt6768/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/input/keyboard/mediatek/mt6768/built-in.o drivers/input/keyboard/mediatek/mt6768/hal_kpd.o ; scripts/mod/modpost drivers/input/keyboard/mediatek/mt6768/built-in.o

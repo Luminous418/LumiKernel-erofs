@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/dfd/built-in.o :=   rm -f drivers/misc/mediatek/dfd/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/dfd/built-in.o drivers/misc/mediatek/dfd/dfd.o drivers/misc/mediatek/dfd/mt6768/built-in.o ; scripts/mod/modpost drivers/misc/mediatek/dfd/built-in.o

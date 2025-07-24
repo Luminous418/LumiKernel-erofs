@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/smi/built-in.o :=   rm -f drivers/misc/mediatek/smi/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/smi/built-in.o drivers/misc/mediatek/smi/smi_drv.o ; scripts/mod/modpost drivers/misc/mediatek/smi/built-in.o

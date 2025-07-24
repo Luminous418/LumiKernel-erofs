@@ -1,0 +1,1 @@
+cmd_drivers/usb/common/built-in.o :=   rm -f drivers/usb/common/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/common/built-in.o drivers/usb/common/usb-common.o ; scripts/mod/modpost drivers/usb/common/built-in.o

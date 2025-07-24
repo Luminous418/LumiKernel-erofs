@@ -1,0 +1,12 @@
+!<thin>
+//                                              152       `
+camera_hw/regulator/regulator.o/
+camera_hw/gpio/gpio.o/
+camera_hw/mclk/mclk.o/
+camera_hw/imgsensor_cfg_table.o/
+s5kgw3_mipi_raw/s5kgw3mipiraw_Sensor.o/
+/0              0           0     0     644     6776      `
+/33             0           0     0     644     8912      `
+/56             0           0     0     644     10552     `
+/79             0           0     0     644     4832      `
+/112            0           0     0     644     93448     `

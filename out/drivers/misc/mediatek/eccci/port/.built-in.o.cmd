@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/eccci/port/built-in.o :=   rm -f drivers/misc/mediatek/eccci/port/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/eccci/port/built-in.o drivers/misc/mediatek/eccci/port/ccci_port.o ; scripts/mod/modpost drivers/misc/mediatek/eccci/port/built-in.o

@@ -1,0 +1,1 @@
+cmd_net/bridge/built-in.o :=   rm -f net/bridge/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD net/bridge/built-in.o net/bridge/bridge.o net/bridge/netfilter/built-in.o ; scripts/mod/modpost net/bridge/built-in.o

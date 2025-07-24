@@ -1,0 +1,1 @@
+cmd_fs/tracefs/built-in.o :=   rm -f fs/tracefs/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD fs/tracefs/built-in.o fs/tracefs/tracefs.o ; scripts/mod/modpost fs/tracefs/built-in.o

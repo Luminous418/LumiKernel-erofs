@@ -1,0 +1,1 @@
+cmd_fs/verity/built-in.o :=   rm -f fs/verity/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD fs/verity/built-in.o fs/verity/enable.o fs/verity/hash_algs.o fs/verity/init.o fs/verity/measure.o fs/verity/open.o fs/verity/verify.o fs/verity/signature.o ; scripts/mod/modpost fs/verity/built-in.o

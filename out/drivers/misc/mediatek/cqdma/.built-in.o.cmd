@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cqdma/built-in.o :=   rm -f drivers/misc/mediatek/cqdma/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/cqdma/built-in.o drivers/misc/mediatek/cqdma/cqdma.o ; scripts/mod/modpost drivers/misc/mediatek/cqdma/built-in.o

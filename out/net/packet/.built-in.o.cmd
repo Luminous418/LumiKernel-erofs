@@ -1,0 +1,1 @@
+cmd_net/packet/built-in.o :=   rm -f net/packet/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD net/packet/built-in.o net/packet/af_packet.o ; scripts/mod/modpost net/packet/built-in.o

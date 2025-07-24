@@ -1,0 +1,1 @@
+cmd_fs/incfs/incrementalfs.o :=  rm -f fs/incfs/incrementalfs.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD fs/incfs/incrementalfs.o fs/incfs/data_mgmt.o fs/incfs/format.o fs/incfs/integrity.o fs/incfs/main.o fs/incfs/pseudo_files.o fs/incfs/sysfs.o fs/incfs/vfs.o fs/incfs/verity.o 

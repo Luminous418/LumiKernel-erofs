@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/usb_boost/v1/built-in.o :=   rm -f drivers/misc/mediatek/usb_boost/v1/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/usb_boost/v1/built-in.o drivers/misc/mediatek/usb_boost/v1/usb_boost_plat.o ; scripts/mod/modpost drivers/misc/mediatek/usb_boost/v1/built-in.o

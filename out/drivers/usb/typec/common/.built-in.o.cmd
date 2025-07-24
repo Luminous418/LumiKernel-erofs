@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/common/built-in.o :=   rm -f drivers/usb/typec/common/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/typec/common/built-in.o drivers/usb/typec/common/pdic_notifier_module.o ; scripts/mod/modpost drivers/usb/typec/common/built-in.o

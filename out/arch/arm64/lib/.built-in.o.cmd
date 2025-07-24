@@ -1,0 +1,1 @@
+cmd_arch/arm64/lib/built-in.o :=   rm -f arch/arm64/lib/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD arch/arm64/lib/built-in.o arch/arm64/lib/lib-ksyms.o ; scripts/mod/modpost arch/arm64/lib/built-in.o

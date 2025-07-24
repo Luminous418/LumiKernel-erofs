@@ -1,0 +1,13 @@
+!<thin>
+//                                              180       `
+../common/v1/eeprom_driver.o/
+../common/v1/eeprom_i2c_common_driver.o/
+eeprom_i2c_custom_driver.o/
+camera_project/aau_v32/cam_cal_list.o/
+camera_project/aau_v32/eeprom_i2c_dev.o/
+
+/0              0           0     0     644     53472     `
+/30             0           0     0     644     5480      `
+/71             0           0     0     644     4400      `
+/99             0           0     0     644     2296      `
+/138            0           0     0     644     1160      `

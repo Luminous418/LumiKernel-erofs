@@ -1,0 +1,19 @@
+!<thin>
+//                                              138       `
+smcdsd_panel_init.o/
+smcdsd_panel.o/
+smcdsd_board.o/
+smcdsd_notify.o/
+smcdsd_abd.o/
+panels/dpui.o/
+panels/mdnie.o/
+panels/s6e3fc3_a32.o/
+
+/0              0           0     0     644     21640     `
+/21             0           0     0     644     16880     `
+/37             0           0     0     644     62768     `
+/53             0           0     0     644     12576     `
+/70             0           0     0     644     51128     `
+/84             0           0     0     644     22536     `
+/99             0           0     0     644     32248     `
+/115            0           0     0     644     249168    `

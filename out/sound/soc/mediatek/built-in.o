@@ -1,0 +1,43 @@
+!<thin>
+//                                              518       `
+common/mtk-mmap-ion.o/
+common/mtk-afe-platform-driver.o/
+common/mtk-afe-fe-dai.o/
+common/mtk-sram-manager.o/
+common/mtk-sp-pcm-ops.o/
+common/mtk-afe-debug.o/
+common/mtk-sp-spk-amp.o/
+common/mtk-usip.o/
+common/mtk-btcvsd.o/
+mt6768/mt6768-afe-pcm.o/
+mt6768/mt6768-afe-clk.o/
+mt6768/mt6768-afe-gpio.o/
+mt6768/mt6768-dai-adda.o/
+mt6768/mt6768-afe-control.o/
+mt6768/mt6768-dai-i2s.o/
+mt6768/mt6768-dai-hw-gain.o/
+mt6768/mt6768-dai-pcm.o/
+mt6768/mt6768-dai-hostless.o/
+mt6768/mt6768-misc-control.o/
+mt6768/mt6768-mt6358.o/
+
+/0              0           0     0     644     18072     `
+/23             0           0     0     644     7072      `
+/57             0           0     0     644     35784     `
+/82             0           0     0     644     7312      `
+/109            0           0     0     644     1664      `
+/134            0           0     0     644     4672      `
+/158            0           0     0     644     22344     `
+/183            0           0     0     644     10328     `
+/202            0           0     0     644     38704     `
+/223            0           0     0     644     72504     `
+/248            0           0     0     644     22248     `
+/273            0           0     0     644     15256     `
+/299            0           0     0     644     26000     `
+/325            0           0     0     644     12184     `
+/354            0           0     0     644     54080     `
+/379            0           0     0     644     13880     `
+/408            0           0     0     644     10712     `
+/433            0           0     0     644     12736     `
+/463            0           0     0     644     70608     `
+/493            0           0     0     644     27944     `

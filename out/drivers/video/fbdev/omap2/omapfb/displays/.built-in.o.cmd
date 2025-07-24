@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/omapfb/displays/built-in.o :=  rm -f drivers/video/fbdev/omap2/omapfb/displays/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/video/fbdev/omap2/omapfb/displays/built-in.o

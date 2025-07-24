@@ -1,0 +1,20 @@
+arch/arm64/boot/dts/mediatek/.mt6768.dtb.dts.tmp: \
+  ../arch/arm64/boot/dts/mediatek/mt6768.dts \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mmc/mt6768-msdc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/memory/mt6768-larb-port.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt6768-pinfunc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt65xx.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/gce/mt6768-gce.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/gce/mt6382-gce.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/mt6768-clk.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/iio/mt635x-auxadc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mfd/mt6358-irq.h \
+  include/generated/autoconf.h \
+  ../arch/arm64/boot/dts/mediatek/mt6358.dtsi \
+  ../arch/arm64/boot/dts/mediatek/cust_mt6768_msdc.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6370.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6370_pd.dtsi \
+  ../arch/arm64/boot/dts/mediatek/trusty.dtsi \
+  ../arch/arm64/boot/dts/mediatek/modem-MT6769ap-pdata.dtsi

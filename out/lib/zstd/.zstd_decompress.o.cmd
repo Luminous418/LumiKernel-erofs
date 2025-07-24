@@ -1,0 +1,1 @@
+cmd_lib/zstd/zstd_decompress.o :=  rm -f lib/zstd/zstd_decompress.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD lib/zstd/zstd_decompress.o lib/zstd/huf_decompress.o lib/zstd/decompress.o 

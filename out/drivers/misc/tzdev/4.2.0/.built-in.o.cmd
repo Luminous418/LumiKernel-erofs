@@ -1,0 +1,1 @@
+cmd_drivers/misc/tzdev/4.2.0/built-in.o :=   rm -f drivers/misc/tzdev/4.2.0/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/tzdev/4.2.0/built-in.o drivers/misc/tzdev/4.2.0/tzdev.o ; scripts/mod/modpost drivers/misc/tzdev/4.2.0/built-in.o

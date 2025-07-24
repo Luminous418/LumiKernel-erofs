@@ -1,0 +1,1 @@
+cmd_drivers/connector/cn.o :=  rm -f drivers/connector/cn.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/connector/cn.o drivers/connector/cn_queue.o drivers/connector/connector.o 

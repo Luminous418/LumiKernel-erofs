@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/log_store/built-in.o :=   rm -f drivers/misc/mediatek/log_store/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/log_store/built-in.o drivers/misc/mediatek/log_store/log_store.o ; scripts/mod/modpost drivers/misc/mediatek/log_store/built-in.o

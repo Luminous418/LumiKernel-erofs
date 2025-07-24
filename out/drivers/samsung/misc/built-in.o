@@ -1,0 +1,10 @@
+!<thin>
+//                                              58        `
+sec_log.o/
+sec_bootstat.o/
+vbus_notifier.o/
+sec_chipid.o/
+/0              0           0     0     644     15152     `
+/11             0           0     0     644     25792     `
+/27             0           0     0     644     4848      `
+/44             0           0     0     644     6504      `

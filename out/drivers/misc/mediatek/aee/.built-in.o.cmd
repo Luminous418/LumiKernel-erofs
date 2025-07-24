@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/built-in.o :=   rm -f drivers/misc/mediatek/aee/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/aee/built-in.o drivers/misc/mediatek/aee/common/built-in.o drivers/misc/mediatek/aee/mrdump/built-in.o ; scripts/mod/modpost drivers/misc/mediatek/aee/built-in.o

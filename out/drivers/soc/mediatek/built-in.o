@@ -1,0 +1,9 @@
+!<thin>
+//                                              52        `
+mtk-pmic-wrap.o/
+mtk-cmdq-helper.o/
+mtk-socinfo.o/
+
+/0              0           0     0     644     229960    `
+/17             0           0     0     644     98720     `
+/36             0           0     0     644     3592      `

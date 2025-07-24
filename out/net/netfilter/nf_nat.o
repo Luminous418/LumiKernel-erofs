@@ -1,0 +1,19 @@
+!<thin>
+//                                              162       `
+nf_nat_core.o/
+nf_nat_proto_unknown.o/
+nf_nat_proto_common.o/
+nf_nat_proto_udp.o/
+nf_nat_proto_tcp.o/
+nf_nat_helper.o/
+nf_nat_proto_dccp.o/
+nf_nat_proto_sctp.o/
+
+/0              0           0     0     644     29568     `
+/15             0           0     0     644     1568      `
+/39             0           0     0     644     4456      `
+/62             0           0     0     644     2720      `
+/82             0           0     0     644     2144      `
+/102            0           0     0     644     8032      `
+/119            0           0     0     644     2144      `
+/140            0           0     0     644     2896      `

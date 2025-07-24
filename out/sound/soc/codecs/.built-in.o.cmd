@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.o :=   rm -f sound/soc/codecs/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/soc/codecs/built-in.o sound/soc/codecs/snd-soc-mt6358.o sound/soc/codecs/snd-soc-sma1305.o ; scripts/mod/modpost sound/soc/codecs/built-in.o

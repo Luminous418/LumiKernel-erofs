@@ -1,0 +1,1 @@
+cmd_drivers/hid/usbhid/built-in.o :=   rm -f drivers/hid/usbhid/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/hid/usbhid/built-in.o drivers/hid/usbhid/usbhid.o ; scripts/mod/modpost drivers/hid/usbhid/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mtk-videobuf/built-in.o :=   rm -f drivers/media/platform/mtk-videobuf/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/media/platform/mtk-videobuf/built-in.o drivers/media/platform/mtk-videobuf/mtk-dma-contig.o ; scripts/mod/modpost drivers/media/platform/mtk-videobuf/built-in.o

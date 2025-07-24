@@ -1,0 +1,40 @@
+!<thin>
+//                                              466       `
+perfmgr_main.o/
+base/utility.o/
+boost_ctrl/boostctrl_main.o/
+boost_ctrl/dram_ctrl/dram_ctrl.o/
+boost_ctrl/cpu_ctrl/cpu_ctrl.o/
+boost_ctrl/eas_ctrl/eas_ctrl.o/
+boost_ctrl/topo_ctrl/topo_ctrl.o/
+tchbst/tchbst_main.o/
+tchbst/kernel/ktch.o/
+syslimiter/syslimiter.o/
+resym/rs_trace.o/
+resym/rs_base.o/
+resym/rs_main.o/
+resym/rs_usage.o/
+resym/rs_state.o/
+resym/rs_index.o/
+resym/platform/mt6768/rs_vpu_pfm.o/
+resym/platform/mt6768/rs_mdla_pfm.o/
+perf_ioctl/perf_ioctl.o/
+/0              0           0     0     644     5448      `
+/16             0           0     0     644     8056      `
+/32             0           0     0     644     2488      `
+/61             0           0     0     644     18896     `
+/95             0           0     0     644     48560     `
+/127            0           0     0     644     78128     `
+/159            0           0     0     644     13592     `
+/193            0           0     0     644     2176      `
+/215            0           0     0     644     18400     `
+/237            0           0     0     644     22728     `
+/262            0           0     0     644     5592      `
+/280            0           0     0     644     3168      `
+/297            0           0     0     644     3016      `
+/314            0           0     0     644     22600     `
+/332            0           0     0     644     3520      `
+/350            0           0     0     644     6560      `
+/368            0           0     0     644     1392      `
+/404            0           0     0     644     1400      `
+/441            0           0     0     644     13264     `

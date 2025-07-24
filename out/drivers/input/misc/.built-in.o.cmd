@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.o :=   rm -f drivers/input/misc/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/input/misc/built-in.o drivers/input/misc/uinput.o ; scripts/mod/modpost drivers/input/misc/built-in.o

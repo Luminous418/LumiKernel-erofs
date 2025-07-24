@@ -1,0 +1,17 @@
+!<thin>
+//                                              152       `
+common/dummy.o/
+mrdump/mrdump_control.o/
+mrdump/mrdump_hw.o/
+mrdump/mrdump_full.o/
+mrdump/mrdump_mini.o/
+mrdump/mrdump_panic.o/
+mrdump/mrdump_arm64.o/
+
+/0              0           0     0     644     11240     `
+/16             0           0     0     644     4592      `
+/41             0           0     0     644     2720      `
+/61             0           0     0     644     5280      `
+/83             0           0     0     644     27008     `
+/105            0           0     0     644     30496     `
+/128            0           0     0     644     1136      `

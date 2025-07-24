@@ -1,0 +1,24 @@
+!<thin>
+//                                              300       `
+mediatek/ComboA/sd.o/
+mediatek/ComboA/dbg.o/
+mediatek/ComboA/mtk_sd_misc.o/
+mediatek/ComboA/msdc_tune.o/
+mediatek/ComboA/msdc_partition.o/
+mediatek/ComboA/autok.o/
+mediatek/ComboA/mt6768/msdc_cust.o/
+mediatek/ComboA/mt6768/autok_dvfs.o/
+mediatek/ComboA/sw-cqhci-crypto.o/
+cmdq_hci.o/
+cqhci-crypto.o/
+/0              0           0     0     644     162360    `
+/22             0           0     0     644     68152     `
+/45             0           0     0     644     123400    `
+/76             0           0     0     644     20168     `
+/105            0           0     0     644     7536      `
+/139            0           0     0     644     186144    `
+/164            0           0     0     644     60896     `
+/200            0           0     0     644     16032     `
+/237            0           0     0     644     5848      `
+/272            0           0     0     644     24632     `
+/284            0           0     0     644     6496      `

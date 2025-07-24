@@ -1,0 +1,44 @@
+!<thin>
+//                                              446       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+ff-memless.o/
+input-leds.o/
+evdev.o/
+keyboard/mediatek/kpd.o/
+keyboard/mediatek/mt6768/hal_kpd.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/melfas_mip4/mip4_ts.o/
+touchscreen/melfas_mip4/mip4_ts_mod.o/
+touchscreen/melfas_mip4/mip4_ts_dev.o/
+touchscreen/melfas_mip4/mip4_fw_mss100.o/
+misc/uinput.o/
+/0              0           0     0     644     75232     `
+/9              0           0     0     644     5440      `
+/25             0           0     0     644     15352     `
+/37             0           0     0     644     10888     `
+/48             0           0     0     644     14216     `
+/62             0           0     0     644     6672      `
+/76             0           0     0     644     40624     `
+/85             0           0     0     644     24736     `
+/110            0           0     0     644     12568     `
+/146            0           0     0     644     47368     `
+/163            0           0     0     644     8624      `
+/180            0           0     0     644     36928     `
+/197            0           0     0     644     27376     `
+/212            0           0     0     644     11384     `
+/230            0           0     0     644     8368      `
+/246            0           0     0     644     6552      `
+/276            0           0     0     644     73160     `
+/311            0           0     0     644     38632     `
+/350            0           0     0     644     116512    `
+/389            0           0     0     644     29120     `
+/431            0           0     0     644     24816     `

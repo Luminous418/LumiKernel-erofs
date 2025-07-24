@@ -1,0 +1,16 @@
+!<thin>
+//                                              94        `
+trusty.o/
+trusty-irq.o/
+trusty-mem.o/
+trusty-virtio.o/
+trusty-ipc.o/
+smcnr-table.o/
+gz-log.o/
+/0              0           0     0     644     37024     `
+/10             0           0     0     644     17040     `
+/24             0           0     0     644     1664      `
+/38             0           0     0     644     32000     `
+/55             0           0     0     644     71560     `
+/69             0           0     0     644     4304      `
+/84             0           0     0     644     17248     `

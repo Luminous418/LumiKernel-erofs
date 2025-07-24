@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=   rm -f drivers/mmc/host/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/mmc/host/built-in.o drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/cmdq_hci.o drivers/mmc/host/cqhci-crypto.o ; scripts/mod/modpost drivers/mmc/host/built-in.o

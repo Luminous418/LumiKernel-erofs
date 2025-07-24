@@ -1,0 +1,52 @@
+!<thin>
+//                                              450       `
+nf_conntrack_l3proto_ipv4.o/
+nf_conntrack_proto_icmp.o/
+nf_nat_l3proto_ipv4.o/
+nf_nat_proto_icmp.o/
+nf_defrag_ipv4.o/
+nf_socket_ipv4.o/
+nf_log_ipv4.o/
+nf_reject_ipv4.o/
+nf_nat_h323.o/
+nf_nat_pptp.o/
+nf_nat_masquerade_ipv4.o/
+nf_nat_proto_gre.o/
+ip_tables.o/
+iptable_filter.o/
+iptable_mangle.o/
+iptable_nat.o/
+iptable_raw.o/
+iptable_security.o/
+ipt_ah.o/
+ipt_rpfilter.o/
+ipt_MASQUERADE.o/
+ipt_REJECT.o/
+arp_tables.o/
+arpt_mangle.o/
+arptable_filter.o/
+/0              0           0     0     644     16232     `
+/29             0           0     0     644     8720      `
+/56             0           0     0     644     13256     `
+/79             0           0     0     644     2384      `
+/100            0           0     0     644     5376      `
+/118            0           0     0     644     3880      `
+/136            0           0     0     644     9992      `
+/151            0           0     0     644     7832      `
+/169            0           0     0     644     19312     `
+/184            0           0     0     644     12720     `
+/199            0           0     0     644     7240      `
+/225            0           0     0     644     6760      `
+/245            0           0     0     644     38344     `
+/258            0           0     0     644     6176      `
+/276            0           0     0     644     5360      `
+/294            0           0     0     644     5512      `
+/309            0           0     0     644     5064      `
+/324            0           0     0     644     5112      `
+/344            0           0     0     644     5736      `
+/354            0           0     0     644     4944      `
+/370            0           0     0     644     5200      `
+/388            0           0     0     644     4600      `
+/402            0           0     0     644     34176     `
+/416            0           0     0     644     3696      `
+/431            0           0     0     644     5040      `

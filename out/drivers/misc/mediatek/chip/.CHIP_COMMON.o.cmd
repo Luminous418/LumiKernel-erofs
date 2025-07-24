@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/chip/CHIP_COMMON.o :=  rm -f drivers/misc/mediatek/chip/CHIP_COMMON.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/chip/CHIP_COMMON.o drivers/misc/mediatek/chip/mtk_chip_common.o 

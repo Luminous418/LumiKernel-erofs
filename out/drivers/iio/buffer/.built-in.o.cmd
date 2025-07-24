@@ -1,0 +1,1 @@
+cmd_drivers/iio/buffer/built-in.o :=   rm -f drivers/iio/buffer/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/iio/buffer/built-in.o drivers/iio/buffer/kfifo_buf.o ; scripts/mod/modpost drivers/iio/buffer/built-in.o

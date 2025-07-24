@@ -1,0 +1,1 @@
+cmd_crypto/asymmetric_keys/pkcs7_message.o :=  rm -f crypto/asymmetric_keys/pkcs7_message.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD crypto/asymmetric_keys/pkcs7_message.o crypto/asymmetric_keys/pkcs7-asn1.o crypto/asymmetric_keys/pkcs7_parser.o crypto/asymmetric_keys/pkcs7_trust.o crypto/asymmetric_keys/pkcs7_verify.o 

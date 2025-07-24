@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/built-in.o :=   rm -f drivers/usb/class/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/class/built-in.o drivers/usb/class/cdc-acm.o drivers/usb/class/usblp.o drivers/usb/class/cdc-wdm.o ; scripts/mod/modpost drivers/usb/class/built-in.o

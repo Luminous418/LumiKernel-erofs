@@ -1,0 +1,1 @@
+cmd_sound/core/built-in.o :=   rm -f sound/core/built-in.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD sound/core/built-in.o sound/core/snd.o sound/core/snd-hwdep.o sound/core/snd-timer.o sound/core/snd-hrtimer.o sound/core/snd-pcm.o sound/core/snd-seq-device.o sound/core/snd-rawmidi.o sound/core/seq/built-in.o ; scripts/mod/modpost sound/core/built-in.o

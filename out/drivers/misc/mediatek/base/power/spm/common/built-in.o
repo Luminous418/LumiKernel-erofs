@@ -1,0 +1,33 @@
+!<thin>
+//                                              330       `
+mtk_idle_fs/mtk_lp_kernfs.o/
+mtk_idle_fs/mtk_lp_sysfs.o/
+mtk_idle_fs/mtk_idle_sysfs.o/
+mtk_idle_fs/mtk_lp_sysfs_procfs.o/
+mtk_idle.o/
+mtk_idle_select.o/
+mtk_idle_internal.o/
+mtk_idle_profile.o/
+mtk_idle_twam.o/
+mtk_spm_resource_req.o/
+mtk_sleep.o/
+mtk_sleep_init.o/
+mtk_vcore_dvfs.o/
+mtk_idle_module.o/
+mtk_idle_export_legacy.o/
+
+/0              0           0     0     644     6280      `
+/29             0           0     0     644     2848      `
+/57             0           0     0     644     3392      `
+/87             0           0     0     644     7112      `
+/122            0           0     0     644     7784      `
+/134            0           0     0     644     3088      `
+/153            0           0     0     644     6520      `
+/174            0           0     0     644     10448     `
+/194            0           0     0     644     3208      `
+/211            0           0     0     644     13800     `
+/235            0           0     0     644     15264     `
+/248            0           0     0     644     2008      `
+/266            0           0     0     644     2424      `
+/284            0           0     0     644     22856     `
+/303            0           0     0     644     3800      `

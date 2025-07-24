@@ -1,0 +1,1 @@
+cmd_drivers/sti/abc/abc_hub.o :=  rm -f drivers/sti/abc/abc_hub.o; /home/luminous418/zyc-clang/bin/aarch64-linux-gnu-ar rcSTPD drivers/sti/abc/abc_hub.o drivers/sti/abc/abc_hub_core.o drivers/sti/abc/abc_hub_bootc.o 
